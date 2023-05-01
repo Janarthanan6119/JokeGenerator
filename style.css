@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+button{
+    color: white;
+    background-color: black;
+    
+}
+button:hover{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
